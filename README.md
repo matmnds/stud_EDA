@@ -1,2 +1,2 @@
 # stud_EDA
-My university exploratory data analysis projects
+My university Exploratory Data Analysis projects
